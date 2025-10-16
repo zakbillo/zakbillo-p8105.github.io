@@ -1,0 +1,12 @@
+---
+title: "about"
+author: "Zakari L. Billo"
+date: "2025-10-16"
+output: 
+  html_document:
+    theme: cerulean
+---
+
+Website coded by Zakari Billo using RMarkdown 
+
+go back to the [homepage](index.html)

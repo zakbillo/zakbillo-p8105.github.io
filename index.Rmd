@@ -1,0 +1,17 @@
+---
+title: "index"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Zak's website 
+
+![](https://datasciencedojo.com/wp-content/uploads/meme-1.jpg.webp)
+
+this website is an example from [P8105](https://p8105.com/index.html)
+
+learn about this site [here](about.html)
+
+look at nice [plots](plots.html) i make
