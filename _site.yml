@@ -13,7 +13,7 @@ navbar:
       href: http://github.com/<zakbillo-p8105>/
 output:
   html_document:
-    theme: cerulean
+    theme: readable
     
 
     
