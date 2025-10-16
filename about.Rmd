@@ -1,9 +1,5 @@
 ---
 title: "about"
-author: "Zakari L. Billo"
-date: "2025-10-16"
-output: 
-  html_document:
 ---
 
 Website coded by Zakari Billo using RMarkdown 

@@ -3,9 +3,9 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
+    - text: "about"
       href: about.html
-    - text: "Plots"
+    - text: "plots"
       href: plots.html
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
