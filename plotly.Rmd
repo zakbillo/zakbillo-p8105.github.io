@@ -25,7 +25,7 @@ nyc_airbnb =
     price %in% 100:500)
 ```
 
-using plot_ly 
+using plot_ly (plot A)
 
 ```{r}
 nyc_airbnb |>
@@ -41,5 +41,15 @@ nyc_airbnb |>
   mutate(neighbourhood = fct_reorder(neighbourhood, price)) |> 
   plot_ly(y = ~price, color = ~neighbourhood, type = "box", colors = "viridis")
 ```
+
+plotly interactive bar chart
+
+```{r}
+nyc_airbnb |> 
+  count(neighbourhood) |> 
+  mutate(neighbourhood = fct_reorder(neighbourhood, n)) |> 
+  plot_ly(x = ~neighbourhood, y = ~n, color = ~neighbourhood, type = "bar", colors = "viridis")
+```
+
 
 go back to the [homepage](index.html)
