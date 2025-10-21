@@ -14,4 +14,4 @@ this website is an example from [P8105](https://p8105.com/index.html)
 
 learn about this site [here](about.html)
 
-look at nice [plots](plots.html) i make
+look at nice [plotly](plotly.html) i make
