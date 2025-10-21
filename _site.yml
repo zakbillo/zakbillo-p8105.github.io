@@ -7,6 +7,8 @@ navbar:
       href: about.html
     - text: "plotly"
       href: plotly.html
+    - text: "flexdashboard"
+      href: flexdashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg
